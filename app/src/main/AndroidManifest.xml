@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.VarduginaPR241067Activity">
         <activity
+            android:name=".Pereclychatel"
+            android:exported="false" />
+        <activity
             android:name=".RadioButton"
             android:exported="false" />
         <activity
